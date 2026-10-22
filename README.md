@@ -26,4 +26,4 @@ Business Insight and Strategic Recommendations
 This project demonstrates how data analytics can transform raw e-commerce data into actionable insights. By monitoring sales performance, understanding customer behavior, and identifying
 operational improvement opportunities, businesses can make more informed decisions and develop strategies for sustainable growth.
 
-Tools Used: Excel, Power Query, Power Pivot.
+# Tools Used: Excel, Power Query, Power Pivot.
